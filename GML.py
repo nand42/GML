@@ -25,7 +25,8 @@ class Ester:
         self.datapath = self.ask_for_input_file()
 
     def clear_screen(self):
-        lambda : os.system('clear')
+        os.system('clear')
+        print('  ---  ---  ---  ---  ---  ---  ---  ')
 
     def import_data(self):
         # store the data
@@ -117,10 +118,12 @@ class Ester:
         plt.ticklabel_format(useOffset=False)
         plt.colorbar()
         # save pdf image
-        plt.savefig(name_img)
+        plt.savefig(IMG + name_img)
         # show pdf image 
         plt.show()
         if self._verbose:
             print('[done] generate_map')
+        self.clear_screen()
+
 
 
