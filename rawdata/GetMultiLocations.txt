@@ -1,0 +1,21 @@
+Get Multi Locations
+{"latitude":"44.84954","longitude":"11.61628","time":"p1","altitude":"0"}
+{"latitude":"44.84833","longitude":"11.63122","time":"p2","altitude":"0"}
+{"latitude":"44.84072","longitude":"11.63405","time":"p3","altitude":"0"}
+{"latitude":"44.83165","longitude":"11.63302","time":"p4","altitude":"0"}
+{"latitude":"44.82471","longitude":"11.62907","time":"p5","altitude":"0"}
+{"latitude":"44.83072","longitude":"11.61491","time":"p6","altitude":"0"}
+{"latitude":"44.83827","longitude":"11.60109","time":"p7","altitude":"0"}
+{"latitude":"44.83395","longitude":"11.59998","time":"p8","altitude":"0"}
+{"latitude":"44.84407","longitude":"11.60907","time":"p8","altitude":"0"}
+{"latitude":"44.83918715020688","longitude":"11.61688635817215","time":"30 May 2021 at 13:25:14 CEST","altitude":"3,11639022827148","name":"uno"}
+{"latitude":"44.8392810151988","longitude":"11.61667402864441","time":"30 May 2021 at 13:25:26 CEST","altitude":"7,99983204154968"}
+{"latitude":"44.83916731327345","longitude":"11.61667772365889","time":"30 May 2021 at 13:25:37 CEST","altitude":"8,0003204345703"}
+{"latitude":"44.83913715630526","longitude":"11.61660616215528","time":"30 May 2021 at 13:25:43 CEST","altitude":"8,00032043457031"}
+{"latitude":"44.83913481066862","longitude":"11.6165914275461","time":"30 May 2021 at 13:25:44 CEST","altitude":"8,00032043457031"}
+{"latitude":"44.83899038563964","longitude":"11.61706320482983","time":"30 May 2021 at 13:26:12 CEST","altitude":"3,11639022827148"}
+{"latitude":"44.83879919042823","longitude":"11.61731927583168","time":"30 May 2021 at 13:26:24 CEST","altitude":"8,00032043452147"}
+{"latitude":"44.83883482393116","longitude":"11.6172620095727","time":"30 May 2021 at 13:26:26 CEST","altitude":"8,00032043456982"}
+{"latitude":"44.83885068301824","longitude":"11.61725492582626","time":"30 May 2021 at 13:26:27 CEST","altitude":"8,00032043457026"}
+{"latitude":"44.83886208397912","longitude":"11.61723963622759","time":"30 May 2021 at 13:26:28 CEST","altitude":"8,0003204345703"}
+{"latitude":"44.83928299804087","longitude":"11.61680613835608","time":"30 May 2021 at 13:28:25 CEST","altitude":"3,11639022827148"}
