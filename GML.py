@@ -9,6 +9,7 @@ import numpy as np
 import plotly.graph_objects as go
 import os 
 
+IMG = 'img/'
 
 class Ester:
     def __init__(self):
