@@ -11,7 +11,7 @@ import plotly.graph_objs as go
 import os 
 
 IMG = 'img/'
-DEFAULT_PATHFILE = 'GML/rawdata/GetMultiLocations.txt'
+DEFAULT_PATHFILE = 'rawdata/GetMultiLocations.txt'
 
 class Ester:
     def __init__(self):
