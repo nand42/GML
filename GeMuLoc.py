@@ -6,7 +6,8 @@ import matplotlib.pyplot as plt
 from ast import literal_eval
 from pandas.plotting import radviz
 import numpy as np
-import plotly.graph_objects as go
+import plotly.graph_objs as go 
+# from plotly import graph_objects as go
 import os 
 
 IMG = 'img/'
