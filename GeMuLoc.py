@@ -11,9 +11,10 @@ import plotly.graph_objs as go
 import os 
 
 IMG = 'img/'
-DEFAULT_PATHFILE = 'rawdata/GetMultiLocations.txt'
+DEFAULT_PATHFILE = 'rawdata/italian_POI.txt'
 
-class Ester:
+
+class Ester():
     def __init__(self):
         # tester checks
         self._verbose = False
@@ -142,5 +143,6 @@ class Ester:
         print('• e.g. dataframe:\n' + str(df[:3]))
         print('• The number of row is: ' + str(df.shape[0]))
         print('--- --- --- ---- --- --- ---')
+
 
 
